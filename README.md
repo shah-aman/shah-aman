@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github profile header](https://user-images.githubusercontent.com/30745002/219671934-0b3daa69-410d-4b2f-915c-9665f5982060.png)
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm a creative developer and a true digital craftsman at heart. I love diving into new projects and constantly exploring innovative technologies and creative solutions. Whether it's a hackathon or a business workshop, I can't get enough of these exciting opportunities to challenge myself and expand my skillset.
+
+When I'm not deep in code, you can usually find me sipping on a hot cup of coffee. It's the fuel that keeps me going, and I never tire of trying new blends and brewing methods.
+
+For me, being a creative developer is more than just a job; it's a passion that I pursue with dedication and enthusiasm. I'm always on the lookout for the next big thing, and I can't wait to see what the future holds for our industry.
 
 
 ## 🌐 Socials:
