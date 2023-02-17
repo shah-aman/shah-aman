@@ -40,10 +40,11 @@ For me, being a creative developer is more than just a job; it's a passion that 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/technosh_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=technosh_)](https://github.com/gazf/github-readme-twitter)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=technosh_)](https://github.com/gazf/github-readme-twitter)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shah-aman&icon=0&color=0)](https://visitcount.itsvg.in)
