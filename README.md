@@ -43,8 +43,7 @@ For me, being a creative developer is more than just a job; it's a passion that 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=technosh_)](https://github.com/gazf/github-readme-twitter)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shah-aman&icon=0&color=0)](https://visitcount.itsvg.in)
